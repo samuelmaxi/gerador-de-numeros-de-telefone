@@ -14,6 +14,6 @@ Phone number generation system in Brazilian format, as well as identifies if the
 
 *System information:
 
-System made in Python 3
-Libraries used:
-Random
+- System made in Python 3
+- Libraries used:
+- - Random
