@@ -1,6 +1,6 @@
 # gerador-de-numeros-de-telefone
 
-pt-BR:
+pt-BR:\n
 Sistema de geração de números de telefone na formatação brasileira, como támbem identifica se o número gerado se encaixa nas caracteristicas de cada operadora de telefonia. (DDD tirados do site: https://melhorescolha.com/blog/qual-a-operadora/)
 
 *Informações do sistema:
