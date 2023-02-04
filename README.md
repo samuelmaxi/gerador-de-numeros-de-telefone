@@ -1,5 +1,5 @@
 # gerador-de-numeros-de-telefone
-================================
+=========
 
 pt-BR:
 
